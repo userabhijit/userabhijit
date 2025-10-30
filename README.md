@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @userabhijit
+- 👋 Hi, I’m abhijit gorai
 - 👀 I’m interested in opensource | web-development| CP
 <!--- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
